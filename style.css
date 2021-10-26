@@ -31,5 +31,5 @@ body{
  
  .right{
    flex-basis: 50%;
-  
+  background-image: url('images/image-header-mobile.jpg');
  }
