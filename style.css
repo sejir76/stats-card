@@ -7,7 +7,7 @@ html, body{
 }
 
 body{
-  background-color: hsl(233, 47%, 47%);
+  background-color: rgb(64, 77, 176);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,9 +16,9 @@ body{
 
         /* Widget */
  .widget{
-  width: 100px;
+  width: 100%;
   max-width: 1440px;
-  background-color: hsl(244,38%,16%);
+  background-color: rgb(27, 25, 56);
   display: flex;
  }
  
