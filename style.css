@@ -16,7 +16,7 @@ body{
 
         /* Widget */
  .widget{
-  width: 40%;
+  width: 100px;
   max-width: 1440px;
   background-color: hsl(244,38%,16%);
   display: flex;
