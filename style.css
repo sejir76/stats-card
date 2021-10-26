@@ -31,5 +31,5 @@ body{
  
  .right{
    flex-basis: 50%;
-   background-image: url(https://github.com/sejir76/stats-card/blob/main/images/image-header-mobile.jpg);
+   background-image: url(images/image-header-mobile.jpg);
  }
