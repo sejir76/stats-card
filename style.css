@@ -18,8 +18,8 @@ body{
  .widget{
   width: 100%;
   max-width: 1440px;
- background-color: hsl(244,38%,16%);
- display: flex;
+  background-color: hsl(244,38%,16%);
+  display: flex;
  }
  
  /* Columns left*/
@@ -32,5 +32,4 @@ body{
  .right{
    flex-basis: 50%;
    background-image: url("https://github.com/sejir76/stats-card/blob/main/images/image-header-mobile.jpg");
-   height: 300px;
  }
