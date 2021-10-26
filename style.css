@@ -10,7 +10,7 @@ body{
   background-color: hsl(233, 47%, 47%);
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
   font-family: Sans-Serif;
 }
 
@@ -19,11 +19,16 @@ body{
   width: 100%;
   max-width: 1440px;
  background-color: hsl(244,38%,16%);
-   
+ display: flex;
  }
  
  /* Columns left*/
  .left{
    color: white;
    padding: 3rem;
+   flex-basis: 50%;
+ }
+ 
+ .right{
+   flex-basis: 50%;
  }
