@@ -24,7 +24,7 @@ body{
  
  /* Columns left*/
  .left{
-   color: white;
+   color: red;
    padding: 3rem;
    flex-basis: 50%;
  }
