@@ -11,12 +11,15 @@ body{
   display: flex;
   justify-content: center;
   align-content: center;
+  font-family: Sans-Serif;
 }
 
         /* Widget */
  .widget{
   width: 100%;
   max-width: 1440px;
+ background-color: hsl(244,38%,16%);
+   
  }
  
  /* Columns left*/
