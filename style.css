@@ -1,2 +1,7 @@
+* {
+  box-sizing: border-box ;
+}
 
-kgjhgj
+html, body{
+  height: 100%;
+}
