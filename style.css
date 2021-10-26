@@ -11,6 +11,16 @@ body{
   display: flex;
   justify-content: center;
   align-content: center;
-  
 }
 
+        /* Widget */
+ .Widget{
+  width: 100%;
+  max-width: 1440px;
+ }
+ 
+ /* Columns left*/
+ .left{
+   color: white;
+   padding: 3rem;
+ }
