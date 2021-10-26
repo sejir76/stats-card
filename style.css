@@ -30,6 +30,6 @@ body{
  }
  
  .right{
-   flex-basis: 50%;
-  background-image: url('images/image-header-mobile.jpg');
+  flex-basis: 50%;
+  background-image: url("https://raw.githubusercontent.com/sejir76/stats-card/main/images/image-header-mobile.jpg");
  }
